@@ -12,3 +12,7 @@ Kotlin으로 JPA Entity를 보다 Entity 스럽게 사용해보기 위한 소개
 - 사용자는 생성된 게시판에 댓글을 추가할 수 있습니다.
 - 사용자는 자신의 게시글을 조회할 수 있습니다.
 - 사용자가 삭제되면 사용자가 작성한 게시글이 모두 삭제됩니다.
+
+## 블로그 링크
+
+[Kotlin JPA Entity에 대한 고찰](https://veluxer62.github.io/explanation/kotlin-jpa-entity/)
